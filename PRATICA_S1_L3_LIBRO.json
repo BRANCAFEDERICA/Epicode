@@ -1,0 +1,52 @@
+{
+	"Saga Libri HP": [
+
+		{"Harry Potter e la pietra filosofale": {
+			"capitoli":"17",
+			"autore": {"nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		},
+
+		{"Harry Potter e la camera dei segreti":{
+			"capitoli":"18",
+			"autore":{"nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		},
+
+		{"Harry Potter e il prigionerio di Azkaban": {
+			"capitoli":"22",
+			"autore": {"nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		},
+
+		{"Harry Potter e il calice di fuoco": {
+			"capitoli":"37",
+			"autore": {"nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		},
+
+		{"Harry Potter e l'Ordine della Fenice": {
+			"capitoli":"38",
+			"autore": { "nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		},
+
+		{"Harry Potter e il principe mezzosangue": {
+			"capitoli":"30",
+			"autore":{"nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		},
+
+		{"Harry Potter e i doni della morte": {
+			"capitoli":"37",
+			"autore":{"nome":"JKRowling","indirizzo":"jkrowling@studios.it"}}
+		}
+
+	]
+
+
+}
+		
+
+
+
+
+
+
+
+
+		

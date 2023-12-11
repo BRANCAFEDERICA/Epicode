@@ -1,0 +1,95 @@
+{
+	"CD": {
+		"nome": "Folklore",
+		"artista": "Taylor Swift",
+		"data di pubblicazione": "2020",
+		"etichetta discografica": "Universal Music",
+		"genere musicale": ["pop","alternative indie"],
+		"tracce": [
+			{"traccia n": "1",
+            "titolo": "the 1",
+            "durata": "3:31"
+			},
+
+			{"traccia n": "2",
+            "titolo": "cardigan",
+            "durata": "3:59"
+			},
+
+			{"traccia n": "3",
+            "titolo": "the last great american dinasty",
+            "durata": "3:51"
+			},
+
+			{"traccia n": "4",
+            "titolo": "exile",
+            "durata": "4:45",
+            "feat": "Bon Iver"
+			},
+
+			{"traccia n": "5",
+            "titolo": "my tears richochet",
+            "durata": "4:15"
+			},
+
+			{"traccia n": "6",
+            "titolo": "mirrorball",
+            "durata": "3:29"
+			},
+
+			{"traccia n": "7",
+            "titolo": "seven",
+            "durata": "3:28"
+			},
+
+			{"traccia n": "8",
+            "titolo": "august",
+            "durata": "4:21"
+			},
+
+			{"traccia n": "9",
+            "titolo": "this is me trying",
+            "durata": "3:15"
+			},
+
+			{"traccia n": "10",
+            "titolo": "illicit affair",
+            "durata": "3:10"
+			},
+
+			{"traccia n": "11",
+            "titolo": "invisible strings",
+            "durata": "4:12"
+			},
+
+			{"traccia n": "12",
+            "titolo": "mad woman",
+            "durata": "3:57"
+			},
+
+			{"traccia n": "13",
+			"titolo": "epiphany",
+			"durata": "4:49"
+            },
+
+			{"traccia n": "14",
+			"titolo": "betty",
+			"durata": "4:54"},
+
+			{"traccia n": "15",
+			"titolo": "peace",
+			"durata": "peace"},
+
+			{"traccia n": "16",
+            "titolo": "hoax",
+            "durata": "3:40"},
+
+			{"traccia bonus edizione deluxe": 
+                {"traccia n": "17",
+                "titolo": "the lakes",
+                "durata": "3:32"}
+			}
+		]
+	}
+}
+
